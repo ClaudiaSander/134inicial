@@ -27,3 +27,5 @@ def dividir(numero_a,numero_b):
 if __name__ == '__main__':
     imprimir_oi('Cláudia Sander')
     imprimir_oi(somar(50,5))
+
+    # Escrevi isto no GitHub
