@@ -29,3 +29,5 @@ if __name__ == '__main__':
     imprimir_oi(somar(50,5))
 
     # Escrevi isto no GitHub
+
+    # Depois escrevi este comentário no PyCharm
